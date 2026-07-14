@@ -1,0 +1,1 @@
+Download the repository to a machine with a development enviroment installed (I used Visual Studio). Double click the solution in the repository dowload and select a development enviroment. Run the solution in that development enviroment.
